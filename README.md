@@ -32,7 +32,8 @@ The CNN model was trained on a large dataset of labeled audio data. Different ge
 
 ### [Dataset](https://drive.google.com/file/d/12Sa2gcXqdjDH5kMO-a-DEfe7eYzBJl-Q/view?usp=sharing)
 ### Usage
-<img width="1783" alt="Screenshot 2023-06-06 at 01 03 03" src="https://github.com/farukaydogan/Gender-Detection-On-Realtime-Voice/assets/57232389/131f82d6-a333-45bb-8822-7d30e0e21123">
+<img width="1797" alt="Accurracy" src="https://github.com/farukaydogan/Gender-Detection-On-Realtime-Voice/assets/57232389/d46042bb-ef8f-4e72-b033-9cb5b4f5003d">
+
 
 After running the main file, the system will start processing real-time audio data from your computer's default microphone. The gender of the speaker will be outputted in real-time.
 
