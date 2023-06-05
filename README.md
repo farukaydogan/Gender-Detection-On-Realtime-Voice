@@ -19,7 +19,7 @@ The system operates by first converting real-time audio data into a spectrogram.
 The CNN model was trained on a large dataset of labeled audio data. Different genders have distinct characteristics that are reflected in their spectrograms, and our CNN model has been taught to identify these with a high degree of accuracy.
 
 
-<img width="1785" alt="Screenshot 2023-06-06 at 01 03 52" src="https://github.com/farukaydogan/Gender-Detection-On-Realtime-Voice/assets/57232389/09f49310-3db0-483d-bc42-cfbb4287b546">
+
 
 ## Getting Started
 
