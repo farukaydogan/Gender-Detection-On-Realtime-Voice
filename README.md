@@ -1,7 +1,5 @@
 # Real-Time Gender Recognition from Audio Using Convolutional Neural Networks in MATLAB
 
-![Banner Image](BannerImageURL)
-
 ## Overview
 
 This repository contains a MATLAB-based implementation of a real-time gender recognition system that uses spectrograms of audio data and Convolutional Neural Networks (CNN). It is an interesting application of deep learning techniques on audio data.
