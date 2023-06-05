@@ -19,13 +19,13 @@ The system operates by first converting real-time audio data into a spectrogram.
 The CNN model was trained on a large dataset of labeled audio data. Different genders have distinct characteristics that are reflected in their spectrograms, and our CNN model has been taught to identify these with a high degree of accuracy.
 
 <img width="1797" alt="Accurracy" src="https://github.com/farukaydogan/Gender-Detection-On-Realtime-Voice/assets/57232389/978a7788-4dcf-4971-990d-180d10e051a0">
+
 ## Getting Started
 
 ### Installation
 
 1. Clone the repository: git clone https://github.com/farukaydogan/Gender-Detection-On-Realtime-Voice
 2. Navigate to the repository: cd Gender-Detection-On-Realtime-Voice
-
 3. Open MATLAB and run the main file.
 
 
