@@ -23,8 +23,8 @@ The CNN model was trained on a large dataset of labeled audio data. Different ge
 
 ### Installation
 
-1. Clone the repository: git clone [Git Repo URL](https://github.com/farukaydogan/Gender-Detection-On-Realtime-Voice)
-2. Navigate to the repository: cd repository
+1. Clone the repository: git clone https://github.com/farukaydogan/Gender-Detection-On-Realtime-Voice
+2. Navigate to the repository: cd Gender-Detection-On-Realtime-Voice
 
 3. Open MATLAB and run the main file.
 
